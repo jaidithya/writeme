@@ -20,13 +20,18 @@ For each test case, print the minimum time in which all array elements will beco
 
 # Sample Input
 2
+
 3 4 
+
 1 2 5
+
 3 2
+
 2 5 5
 
 # Sample Output
 3
+
 0
 
 # 2. Hamiltonian and Lagrangian
